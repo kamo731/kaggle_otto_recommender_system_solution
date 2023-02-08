@@ -1,0 +1,8 @@
+numpy<1.24.0
+# xgboost==1.7.2
+loguru==0.6.0
+lightgbm==3.3.4
+tqdm==4.64.1
+seaborn==0.12.2
+kaggle==1.5.12
+catboost==1.1.1
