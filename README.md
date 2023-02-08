@@ -1,6 +1,6 @@
 # kaggle_otto_recommender_system_solution
 ## 概要
-- Kaggle [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview) のチーム FOMKA (LB 40位 top2% Silver Medal)のソリューションの一部です。
+- Kaggle [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview) のチーム FOMKA (LB 40位, top2%, Silver Medal)のソリューションの一部です。
 - xgboostでの単体モデルを作成し提出するファイルを作成します。
 
 ## 環境構築
